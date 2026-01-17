@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "Sustainable Asset Pricing with Heterogeneous Agents: A Computational Approach"
+collection: research
+category: workinprogress
+permalink: /research/esg-deqn
+excerpt: "We introduce investors with heterogeneous environment, society, and governance (ESG) asset preferences—who derive non-pecuniary utility from green asset portfolio weights—into a general equilibrium asset pricing model with incomplete markets. Their preference for green assets induces a 'green premium,' and its magnitude and persistence are determined by the interaction between portfolio constraints and wealth dynamics. We show that binding portfolio constraints are essential, as they prevent traditional, profit-maximizing investors from arbitraging the premium away. This market incompleteness allows the green premium to be sustained. Calibrated to German twin bond data, our solution will reveal the green premium is not static but fluctuates endogenously with the dynamic wealth distribution between ESG-conscious and traditional investors. These constraints are essential for sustaining the premium and amplify preference transmission during market stress. We successfully solves the model's high-dimensional state space under both constant relative risk aversion (CRRA) and Epstein-Zin recursive preferences using deep equilibrium networks and interpolation methods, enabling a precise analysis of the wealth-reallocation mechanisms—dynamics previously invisible to representative agent frameworks."
+date: 2025-11-15
+venue: 'Senior Honors Thesis'
+slidesurl: 
+paperurl: 
+citation: 
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We introduce investors with heterogeneous environment, society, and governance (ESG) asset preferences—who derive non-pecuniary utility from green asset portfolio weights—into a general equilibrium asset pricing model with incomplete markets. Their preference for green assets induces a ``green premium," and its magnitude and persistence are determined by the interaction between portfolio constraints and wealth dynamics. We show that binding portfolio constraints are essential, as they prevent traditional, profit-maximizing investors from arbitraging the premium away. This market incompleteness allows the green premium to be sustained. Calibrated to German twin bond data, our solution will reveal the green premium is not static but fluctuates endogenously with the dynamic wealth distribution between ESG-conscious and traditional investors. These constraints are essential for sustaining the premium and amplify preference transmission during market stress. We successfully solves the model's high-dimensional state space under both constant relative risk aversion (CRRA) and Epstein-Zin recursive preferences using deep equilibrium networks and interpolation methods, enabling a precise analysis of the wealth-reallocation mechanisms—dynamics previously invisible to representative agent frameworks.
