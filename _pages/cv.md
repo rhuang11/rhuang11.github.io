@@ -16,7 +16,7 @@ Research Experience
 ======
 * **2025: University of North Carolina at Chapel Hill**
   * Senior Honors Thesis, Department of Economics
-  * 
+    
 * **2024: University of North Carolina at Greensboro**
   * NSF REU Research Internship, Department of Computer Science
 
