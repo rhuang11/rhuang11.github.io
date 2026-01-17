@@ -13,8 +13,3 @@ My research interests span empirical asset pricing and corporate finance, with a
 
 I am applying to Finance PhD programs for Fall 2026.
 
-## Working Papers
-* **Daily Market Return Prediction with Transformer** (with Yufeng Han and Guofu Zhou) 
-* **Sustainable Asset Pricing with Heterogeneous Agents: A Computational Approach** 
-
-[Download CV](/files/Huang_RyanCV.pdf){: .btn .btn--primary}
