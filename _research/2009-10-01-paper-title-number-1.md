@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Daily Market Return Prediction with Transformer"
+collection: research
+category: workingpaper
+permalink: /publication/workingpaper/transformer-market-prediction
+excerpt: 'We apply a Transformer encoder to forecast daily market returns using lagged returns, achieving out-of-sample R-squared improvements and Sharpe ratios exceeding 1.2. The predictability is more pronounced during recessions and elevated sentiment periods.'
+date: 2026-01-16
+venue: 'Working Paper'
+slidesurl: ''
+paperurl: 'files/transformers/202509a_HHH.pdf'
+bibtexurl: 'files/transformers/reference.bib'
+citation: 'Yufeng Han, Ryan Huang, and Guofu Zhou. (2025). &quot;Daily Market Return Prediction with Transformer.&quot; <i>Working Paper</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+We apply a Transformer encoder to forecast daily market returns using lagged market returns over horizons of 5, 20, and 60 days. Both the direct model forecasts and post-machine learning forecasts exhibit significant predictive power for next-day returns, while simple averages of past returns do not. Relative to linear predictive regressions, the machine learning forecasts deliver sizable improvements in out-of-sample R-squared. A mean-variance analysis with a risk-aversion coefficient of two shows that the Transformer prediction generates an average return of 30% per annum with a Sharpe ratio of 1.3. The predictability is more pronounced in recessions and periods of elevated investor sentiment. Random Forests and feed-forward Neural Networks also yield economically meaningful, though somewhat weaker, results.
+**Co-authors:** Yufeng Han (UNC Charlotte), Guofu Zhou (Washington University in St. Louis)
