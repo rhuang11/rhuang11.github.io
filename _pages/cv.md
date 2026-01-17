@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-[Download Full CV (PDF)](rhuang11.github.io/files/Huang_RyanCV.pdf){: .btn .btn--primary}
+[Download Full CV (PDF)](/files/Huang_RyanCV.pdf){: .btn .btn--primary}
 
 Education
 ======
