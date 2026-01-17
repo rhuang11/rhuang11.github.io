@@ -2,7 +2,7 @@
 title: "Daily Market Return Prediction with Transformer"
 collection: research
 category: workingpaper
-permalink: /publication/workingpaper/transformer-market-prediction
+permalink: /research/workingpaper/transformer-market-prediction
 excerpt: 'We apply a Transformer encoder to forecast daily market returns using lagged returns, achieving out-of-sample R-squared improvements and Sharpe ratios exceeding 1.2. The predictability is more pronounced during recessions and elevated sentiment periods.'
 date: 2026-01-16
 venue: 'Working Paper'
