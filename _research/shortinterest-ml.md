@@ -7,7 +7,7 @@ excerpt: 'We investigate how asset prices incorporate information through the le
 date: 2025-05-06
 venue: 'Working Paper'
 slidesurl:
-paperurl: 'https://rhuang11.github.io/files/si-ml/A Machine Learning Approach to Understanding Short Interest and Stock Returns.pdf'
+paperurl:
 citation: 
 ---
 
