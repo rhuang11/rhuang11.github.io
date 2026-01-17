@@ -7,8 +7,8 @@ excerpt: 'We apply a Transformer encoder to forecast daily market returns using 
 date: 2026-01-16
 venue: 'Working Paper'
 slidesurl: ''
-paperurl: 'files/transformers/202509a_HHH.pdf'
-bibtexurl: 'files/transformers/reference.bib'
+paperurl: 'https://rhuang11.github.io/files/transformers/202509a_HHH.pdf'
+bibtexurl: 'https://rhuang11.github.io/files/transformers/reference.bib'
 citation: 'Yufeng Han, Ryan Huang, and Guofu Zhou. (2025). &quot;Daily Market Return Prediction with Transformer.&quot; <i>Working Paper</i>.'
 ---
 
