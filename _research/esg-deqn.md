@@ -1,13 +1,13 @@
 ---
 title: "Sustainable Asset Pricing with Heterogeneous Agents: A Computational Approach"
 collection: research
-category: workinprogress
+category: workingpaper
 permalink: /research/esg-deqn
 excerpt: "We introduce investors with heterogeneous environment, society, and governance (ESG) asset preferences—who derive non-pecuniary utility from green asset portfolio weights—into a general equilibrium asset pricing model with incomplete markets. Their preference for green assets induces a 'green premium,' and its magnitude and persistence are determined by the interaction between portfolio constraints and wealth dynamics. We show that binding portfolio constraints are essential, as they prevent traditional, profit-maximizing investors from arbitraging the premium away. This market incompleteness allows the green premium to be sustained. Calibrated to German twin bond data, our solution will reveal the green premium is not static but fluctuates endogenously with the dynamic wealth distribution between ESG-conscious and traditional investors. These constraints are essential for sustaining the premium and amplify preference transmission during market stress. We successfully solves the model's high-dimensional state space under both constant relative risk aversion (CRRA) and Epstein-Zin recursive preferences using deep equilibrium networks and interpolation methods, enabling a precise analysis of the wealth-reallocation mechanisms—dynamics previously invisible to representative agent frameworks."
 date: 2025-11-15
-venue: 'Senior Honors Thesis'
-slidesurl: 
-paperurl: 
+venue: 'Working Paper'
+slidesurl: 'https://rhuang11.github.io/files/esg-deqn/Ryan Huang - Thesis Slides.pdf'
+paperurl: 'https://rhuang11.github.io/files/esg-deqn/Ryan Huang - Final Thesis.pdf'
 citation: 
 ---
 
